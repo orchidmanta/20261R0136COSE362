@@ -1,7 +1,7 @@
 # 20261R0136COSE362 — Synthetic Early Degradation Generation
 
 # Each student should create a personal GitHub account and upload the project code to a public repository using the following format:
-https://github.com/hazimxm04/20261R0136COSE362
+하짐 2024320103: https://github.com/hazimxm04/20261R0136COSE362
 -
 ## Team I4 — AI + Logistics Supply Chain
 
