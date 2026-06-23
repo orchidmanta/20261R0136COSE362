@@ -3,6 +3,7 @@
 # Each student should create a personal GitHub account and upload the project code to a public repository using the following format:
 아흐마드 나우팔 2023320085: https://github.com/naufalasro/20261R0136COSE362
 하짐 2024320103: https://github.com/hazimxm04/20261R0136COSE362
+
 Feras 2024320052: https://github.com/FerasM07/20261R0136COSE362
 -
 ## Team I4 — AI + Logistics Supply Chain
