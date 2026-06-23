@@ -24,14 +24,14 @@ accuracy** — only **3.16% gap from the real data baseline**.
 
 ├── mahirah/                  # Individual member notebooks
 
-├── TeamI4_finalsubmission.ipynb  ← FINAL SUBMISSION
+├── TeamI4_final_submission.ipynb  ← FINAL SUBMISSION
 
 └── README.md
 
 
 ## Final Submission
 
-**`TeamI4_finalsubmission.ipynb`** is the official final submission for Team I4.
+**`TeamI4_final_submission.ipynb`** is the official final submission for Team I4.
 
 It contains the full pipeline:
 - Data loading and preprocessing (CWRU dataset)
