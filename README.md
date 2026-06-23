@@ -1,5 +1,8 @@
 # 20261R0136COSE362 — Synthetic Early Degradation Generation
 
+# Each student should create a personal GitHub account and upload the project code to a public repository using the following format:
+
+-
 ## Team I4 — AI + Logistics Supply Chain
 
 **Course**: COSE362 Machine Learning | Korea University | 2026 Spring
