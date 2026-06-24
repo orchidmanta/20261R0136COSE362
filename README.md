@@ -7,6 +7,8 @@
 
 Feras 2024320052: https://github.com/FerasM07/20261R0136COSE362
 
+마랄마 (2022320170): 
+https://github.com/Renenny/20261R0136COSE362
 -
 ## Team I4 — AI + Logistics Supply Chain
 
